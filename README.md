@@ -16,7 +16,7 @@
 
 
 ## 시상 및 혜택
->- 총상금: 추후 공개 <br>
+>- 총상금: 추후 공개  <br>
 <table class="tbl_prize">
   <tr>
     <th style="text-align:left;width:50%">구분</th>
