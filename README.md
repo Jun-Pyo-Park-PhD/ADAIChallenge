@@ -63,10 +63,10 @@
   </tr>
     <tr>
     <td>
-            <strong>사전 설명회</strong><br>
+            <strong>대회 가이드 및 데이터 제공</strong><br>
     </td>
     <td style="text-align:center"> 2021년 10월 22일</td>
-    <td> 온라인 </td>
+    <td> e-mail 송부</td>
   </tr>
     <tr>
     <td>
