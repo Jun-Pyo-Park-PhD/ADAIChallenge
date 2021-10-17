@@ -104,6 +104,6 @@
     + https://forms.gle/zwUt5uYMmKAD6PUG8
 
 ### 온라인 게시판 및 이메일 문의
-* [온라인 게시판](https://github.com/2021ADAI/ADAIChallenge/issues)
+* [온라인 게시판](https://github.com/DatathonInfo/ADAIChallenge/issues)
 * 이메일: help.adai2021@gmail.com 
 * **온라인 게시판 및 이메일 문의는 대회기간 상시 운영**
