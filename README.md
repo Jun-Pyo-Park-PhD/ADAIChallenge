@@ -39,14 +39,14 @@
       <strong>최우수상</strong><br>
     </td>
     <td style="text-align:center">200만원</td>
-        <td align=center> 1팀</td>
+        <td align=center> 1팀 </td>
    </tr>
     <tr>
     <td>
       <strong>우수상</strong><br>
     </td>
     <td style="text-align:center">100만원</td>
-        <td align=center> 2팀</td>
+        <td align=center> 2팀 </td>
    </tr>
 
 </table>
