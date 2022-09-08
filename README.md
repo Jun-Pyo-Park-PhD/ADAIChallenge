@@ -20,48 +20,35 @@
 
 ## 시상 및 혜택
 >- 총상금: 700만원  <br>
+
 <table class="tbl_prize">
   <tr>
     <th style="text-align:left;width:50%">구분</th>
+    <th style="text-align:center;width:15%">상금</th>
+        <th style="text-align:left;width:35%">수상팀</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>대상</strong><br>
+    </td>
+    <td align=center> 300만원 </td>
+    <td> 1팀 </td>
+  </tr>
+    <tr>
+    <td>
+      <strong>최우수상</strong><br>
+    </td>
+    <td style="text-align:center">200만원</td>
+        <td align=center> 1팀</td>
+   </tr>
+    <tr>
+    <td>
+      <strong>우수상</strong><br>
+    </td>
+    <td style="text-align:center">100만원</td>
+        <td align=center> 2팀</td>
+   </tr>
 
-	@@ -58,35 +58,35 @@
-    <td>
-      <strong>참가 신청</strong><br>
-    </td>
-    <td style="text-align:center"> 2022년 9월 13일 ~ 10월 9일</td>
-    <td> 온라인(대회사이트 참조) </td>
-  </tr>
-    <tr>
-    <td>
-            <strong>대회 데이터 제공</strong><br>
-    </td>
-    <td style="text-align:center"> 예선 및 본선 기간</td>
-    <td> 다운로드 링크 제공 </td>
-  </tr>
-    <tr>
-    <td>
-            <strong>예선</strong><br>
-    </td>
-    <td style="text-align:center"> 2022년 10월 11일 ~ 10월 23일</td>
-    <td> 온라인 </td>
-  </tr>
-    <tr>
-    <td>      
-             <strong>본선</strong><br>
-    </td>
-    <td style="text-align:center"> 2022년 10월 24일 ~ 2022년 11월 6일</td>
-    <td> 온라인 </td>
-  </tr>
-    <tr>
-    <td>           
-             <strong>시상식</strong><br>
-    </td>
-    <td style="text-align:center"> 2022년 11월 18일 </td>
-    <td> 오프라인 </td>
-  </tr>
-    <tr>
-
-	@@ -95,15 +95,15 @@
 </table>
 
 
