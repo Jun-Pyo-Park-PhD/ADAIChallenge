@@ -32,7 +32,7 @@
       <strong>대상</strong><br>
     </td>
     <td align=center> 300만원 </td>
-    <td> 1팀 </td>
+    <td align=center> 1팀 </td>
   </tr>
     <tr>
     <td>
