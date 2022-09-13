@@ -58,8 +58,8 @@
 ## 참가신청
 1. 신청 기간: 2022년 9월 13일 ~ 10월 9일 <br>
 2. 신청 방법: <br>
-  + 구글폼 접수
-    + https://forms.gle/zwUt5uYMmKAD6PUG8
+  + [온라인 신청](https://forms.gle/eUeC4aMz63K3ACPh6)
+  
 
 
 ### 온라인 게시판 및 이메일 문의
